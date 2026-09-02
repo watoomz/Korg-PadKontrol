@@ -21,9 +21,6 @@ The current documented release is **v18**.
 |---|---|
 | `WatooM-padKONTROL-S3-v18-SCENE8-LATCH-GATE-DW.tsi` | Current Traktor Pro 4 Generic MIDI mapping |
 | `WatooM-S3-padKONTROL-Traktor-Pro-4-v18-Complete-User-Manual.pdf` | Full beginner-to-performance user manual |
-| `WatooM-S3-padKONTROL-Traktor-Pro-4-v18-Complete-User-Manual.docx` | Editable version of the full user manual |
-
-> The Traktor-exported TSI should be treated as the authoritative mapping. Keep a known-good copy before changing controller mappings.
 
 ---
 
